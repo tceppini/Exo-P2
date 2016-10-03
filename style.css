@@ -1,0 +1,75 @@
+/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+
+
+
+/*=======================================
+    GENERAL STYLES
+==================================================*/
+body {
+          font-family:'Open Sans', sans-serif;
+    font-size:14px;
+  background-color:#9B60DB;
+}
+
+.nav a {
+    color:#ffffff !important;
+}
+.navbar-header a {
+    color:#ffffff !important;
+    padding-right:100px;
+}
+
+.text-center {
+    text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Open Sans', sans-serif;
+}
+
+h1 {
+    line-height:80px;
+    font-weight:900;
+    font-size:60px;
+    padding:30px 20px 10px 20px;
+}
+h2 {
+    line-height:40px;
+    font-weight:900;
+    font-size:30px;
+     padding:20px 20px 10px 20px;
+     text-transform:uppercase;
+}
+h3 {
+    line-height:30px;
+    padding-bottom:20px;
+}
+h4 {
+    line-height:40px;
+    padding-bottom:15px;
+}
+
+p {
+    font-weight:300;
+    line-height:30px;
+    padding-bottom:20px;
+}
+
+.space-free {
+    height:100px;
+}
+
+
+section {
+    padding-top:50px;
+    padding-bottom:30px;
+}
