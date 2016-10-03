@@ -87,3 +87,19 @@ section {
 .color-light {
    background-color:#E9E9E9!important;
 }
+
+/*=======================================
+    HEADER STYLES
+==================================================*/
+.head-main {
+    font-size:80px !important;
+    font-weight:900!important;
+    color:#fff!important;
+    padding:150px 20px 10px 20px;
+}
+.head-sub-main {
+    font-size:40px !important;
+    font-weight:600!important;
+    color:#fff!important;
+    padding:5px 20px 150px 20px;
+}
